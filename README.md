@@ -1,8 +1,8 @@
 # Python
 
-## Download
+## Documents
 
-[Download](<https://oss.brainco.cn/universal/zenlite-sdk-prebuild/python/1.0.0/python-example.zip>)
+[Documents](<https://www.brainco-hz.com/docs/oxyzen-sdk/zh/python.html>)
 
 ## Requirement
 

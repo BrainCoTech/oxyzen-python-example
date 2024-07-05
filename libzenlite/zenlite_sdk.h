@@ -401,6 +401,7 @@ SDK_EXTERN int zl_set_error_callback(ZenLiteDevice * device, ErrorCB cb);
 
 typedef void (*EEGDataCB)(const char * device_id, EEGData * data);
 SDK_EXTERN int zl_set_eeg_data_callback(ZenLiteDevice * device, EEGDataCB cb);
+SDK_EXTERN int zl_set_raw_eeg_data_callback(ZenLiteDevice * device, EEGDataCB cb);
 
 typedef void (*EEGStatsCB)(const char* device_mac, EEGStats * stats);
 SDK_EXTERN int zl_set_eeg_stats_callback(ZenLiteDevice * device, EEGStatsCB cb);
